@@ -24,7 +24,9 @@ Find more details about the project at: https://sites.google.com/babson.edu/toma
 
 In the code, there are comments for sources that I found integral help from that are given credit which include videos and stackoverflow posts for debugging and templating. Additionally, ChatGPT was integral to the success and implementation of this project. If there is no source listed, then users can assume ChatGPT was used to support implementation.
 
-## App by Abby Tjie
+## By Abby Tjie
 
-   
+https://user-images.githubusercontent.com/122930813/235831576-3fb175e0-d561-4f1d-bbf9-7ae8c24e7e19.mp4
+
+
 

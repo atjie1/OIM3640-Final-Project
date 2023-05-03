@@ -1,7 +1,3 @@
-# OIM3640-Final-Project
-Abby Tjie
-
-
 # Tomato Soup: Show Picker App
 
 Tomato Soup, a Kivy application, is for a user who is in need of a popular TV-series to watch from Netflix, specificaly, a TV series that is rated high enough by Rotten Tomatoes's tomatometer and audience score. 
@@ -27,6 +23,8 @@ Kivy, Selenium, BS4
 ## Attribution
 
 In the code, there are comments for sources that I found integral help from that are given credit which include videos and stackoverflow posts for debugging and templating. Additionally, ChatGPT was integral to the success and implementation of this project. If there is no source listed, then users can assume ChatGPT was used to support implementation.
+
+## App by Abby Tjie
 
    
 
